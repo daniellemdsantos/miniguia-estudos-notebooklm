@@ -28,3 +28,6 @@ Páginas Web / Links
 Estrutura de dados e algoritmos em C++ | Biblioteca
 
 Tentei focar a exploração inicial em duas frentes: A primeira, em um prompt que resuma a estrutura de dados em uma linguagem simples que acompanhe a lógica aplicada ao cotidiano em um vídeo introdutório e, após isso, um audio explicativo em um formato mais podcast pois gosto de ouvir podcasts nas 2h que passo no transporte público a caminho do trabalho. 
+
+
+Link do projeto: https://notebook.google.com/notebook/e3be741b-844c-4d41-b0ba-c7fe52c7f595/preview
