@@ -31,3 +31,5 @@ Tentei focar a exploração inicial em duas frentes: A primeira, em um prompt qu
 
 
 Link do projeto: https://notebook.google.com/notebook/e3be741b-844c-4d41-b0ba-c7fe52c7f595/preview
+Mídia criada: https://notebook.google.com/notebook/7b430c3a-5624-466a-89b3-6ee39546da91/artifact/ec8ea24a-f654-4a76-b1c3-2b929bd8f0a8?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+Mídia criada: [https://notebook.google.com/notebook/7b430c3a-5624-466a-89b3-6ee39546da91/artifact/ec8ea24a-f654-4a76-b1c3-2b929bd8f0a8?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_](https://notebook.google.com/notebook/7b430c3a-5624-466a-89b3-6ee39546da91/artifact/1b380252-c85f-4527-adf1-b65e49eed8dc?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
