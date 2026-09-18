@@ -1,3 +1,5 @@
+
+
 # miniguia-estudos-notebooklm
 Projeto voltado ao aprendizado prático da ferramenta Notebook LM tendo como objetivo incorporar os conhecimentos adquiridos no Bootcamp Universia - Primeiros Passos em Power BI ao conteúdo estudado na graduação de Ciência de Dados que realizo na UNIVESP para aprofundar o meu aprendizado. 
 
@@ -24,3 +26,5 @@ Estruturas de Dados - Vetores
 Páginas Web / Links
 
 Estrutura de dados e algoritmos em C++ | Biblioteca
+
+Tentei focar a exploração inicial em duas frentes: A primeira, em um prompt que resuma a estrutura de dados em uma linguagem simples que acompanhe a lógica aplicada ao cotidiano em um vídeo introdutório e, após isso, um audio explicativo em um formato mais podcast pois gosto de ouvir podcasts nas 2h que passo no transporte público a caminho do trabalho. 
