@@ -1,6 +1,9 @@
 # miniguia-estudos-notebooklm
 Projeto voltado ao aprendizado prático da ferramenta Notebook LM tendo como objetivo incorporar os conhecimentos adquiridos no Bootcamp Universia - Primeiros Passos em Power BI ao conteúdo estudado na graduação de Ciência de Dados que realizo na UNIVESP para aprofundar o meu aprendizado. 
 
+O maior desafio do projeto foi realizar uma curadoria precisa do material de estudo, buscando o equilíbrio exato entre densidade teórica e alinhamento com a ementa da disciplina. O processo exigiu filtrar materiais para evitar tanto a superficialidade — que comprometeria o aprofundamento exigido na avaliação — quanto a dispersão em tópicos avançados fora do escopo acadêmico
+
+
 Aqui estão todas as 13 fontes utilizadas e disponibilizadas neste bloco de notas, organizadas pelo tipo de material:
 
 Documentos PDF
